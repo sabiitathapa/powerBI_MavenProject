@@ -4,7 +4,8 @@ The main focus was on building automated workflows to extract, clean, transform,
 
 Here is the LINK to access the project dashboard: https://app.powerbi.com/reportEmbed?reportId=7e7082d4-e328-416b-aabc-70670f65833f&autoAuth=true&ctid=0c78ad9a-a85c-4eb7-88e2-40de9195b67b
 
-[AdventureWorksReport_1.pdf](https://github.com/user-attachments/files/25521641/AdventureWorksReport_1.pdf)
+<img width="1905" height="1087" alt="Screenshot 2026-02-24 091006" src="https://github.com/user-attachments/assets/50174218-8f39-4a14-9325-79e4dd3d77b1" />
+
 
 Here is the star schema of the data showing relationship between tables :
 
