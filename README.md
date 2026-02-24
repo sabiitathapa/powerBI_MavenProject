@@ -10,8 +10,10 @@ Here is the LINK to access the project dashboard: https://app.powerbi.com/report
 Here is the star schema of the data showing relationship between tables :
 
 Overall datasets relationship:
+
 <img width="947" height="463" alt="Screenshot 2026-02-24 090539" src="https://github.com/user-attachments/assets/eecea4ae-107e-4b95-835d-85112679bd3d" />
 
-Sales Model star schema:
+Sales Model star schema:                                                                               
+
 <img width="633" height="671" alt="Screenshot 2026-02-24 090426" src="https://github.com/user-attachments/assets/f0f86633-aa8b-4e79-b9a5-d1f4d5bacf0c" />
 
